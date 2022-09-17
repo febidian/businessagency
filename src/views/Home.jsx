@@ -427,8 +427,8 @@ function Home(props) {
               {/* <div className="text-3xl ">|</div>{" "} */}
               <div className="text-base mr-5 mt-3  laptop:mt-0">
                 &copy; Copyright{" "}
-                <a className="text-red-500" href="https://www.imsaputra.com/">
-                  Imsaputra.com
+                <a className="text-red-500" href="https://imsaputra.my.id/">
+                  Imsaputra.my.id
                 </a>
                 . <br /> Desain UI by{" "}
                 <a
